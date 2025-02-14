@@ -2,10 +2,14 @@
 title: "glacy19.github.io"
 ---
 
-This is a Quarto website.
+Hello! My name is Genesis Lacy and I'm currently a 4th year student at Colorado State University studying ecosystem science and sustainability.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Experience from my classes
+
+ArcGIS Pro \| Field work and data analysis \| Working with local stakeholders
+
+This website was made using Quarto. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+
 ```
