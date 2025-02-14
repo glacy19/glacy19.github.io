@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: "docs"
+website:
+  title: "glacy19.github.io"
+  
+links:
+  - icon: github
+    text: Github
+    href: https://github.com/glacy19
+  
+navbar:
+   left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

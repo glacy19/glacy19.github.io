@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+About Me!
+
+I'm a fourth year student here at CSU studying ecosystem science and sustainability. I'm from San Antonio, TX and I enjoy hiking, thrifting and playing soccer.
+
+```{r}
+
+```
