@@ -14,7 +14,7 @@ about:
       href: https://www.linkedin.com/in/genesislacy/
 ---
 
----
+------------------------------------------------------------------------
 
 Hello! My name is Genesis Lacy and I'm currently a 4th year student at Colorado State University studying ecosystem science and sustainability.
 
