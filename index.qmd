@@ -1,6 +1,6 @@
 ---
 title: "Genesis Lacy"
-image: C:\Users\gcl61\Downloads/GenesisPORT-4.jpg
+image: C:\Users\gcl61\Downloads\GenesisPORT-4.jpg
 
 toc: false
 about: 
