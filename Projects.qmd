@@ -1,3 +1,12 @@
 ---
 title: "Projects"
 ---
+
+Things that I learned with this project:
+
+1.  Indentations in code are important!
+2.  I've become more confident about where to find and create quarto documents and htmls.
+3.  To learn how to be patient with myself and giving myself time to learn something entirely new to me.
+4.  In the future I'm planning on:
+    a.  Working on adding a better theme that will include more colors
+    b.  Editing my pg footer so that it looks nicer

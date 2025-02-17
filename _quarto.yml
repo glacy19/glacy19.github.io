@@ -3,26 +3,33 @@ project:
   output-dir: "docs"
 website:
   title: "glacy19.github.io"
-  
+  navbar:
+    left: 
+      - href: index.qmd 
+        text: Home
+      - about.qmd
+
+  page-footer: 
+    left: Copyright 2025, Genesis Lacy
+    right:
+      - href: C:\Users\gcl61\Downloads\Genesis_Lacy_CV_2_9_25.pdf
+        text: My CV
+      - href: resources.qmd
+        text: Resources 
+      - href: projects.qmd 
+        text: Projects
+        
 links:
   - icon: github
     text: Github
     href: https://github.com/glacy19
-  
-navbar:
-   left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - resources.qmd
-      - projects.qmd
-      - resume.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
