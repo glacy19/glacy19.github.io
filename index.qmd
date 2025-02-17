@@ -1,5 +1,19 @@
 ---
-title: "glacy19.github.io"
+title: "Genesis Lacy"
+image: imgs/GenesisPORT-4.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em 
+  links: 
+    - text: Github
+      href: https://github.com/glacy19
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/genesislacy/
+
+---
+
 ---
 
 Hello! My name is Genesis Lacy and I'm currently a 4th year student at Colorado State University studying ecosystem science and sustainability.

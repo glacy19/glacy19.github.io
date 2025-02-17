@@ -1,1 +1,15 @@
 /* css styles */
+/* css styles */ 
+define Sass vars
+$sagegreen:#4ab58f
+$magenta:#b54a70
+$white:#fbfefd 
+$black:#000000
+
+
+h1{font-color:$black}
+.button-styling{
+  background:$sagegreen
+  color:$white
+  border-color:$white;
+}

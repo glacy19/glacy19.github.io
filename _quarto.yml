@@ -14,6 +14,9 @@ navbar:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resources.qmd
+      - projects.qmd
+      - resume.qmd
 
 format:
   html:
